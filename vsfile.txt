@@ -1,0 +1,4 @@
+Subject:Project Management with Git
+Subject code:BCS358C
+Exam:git exam
+Exam Date:12-01-2026
